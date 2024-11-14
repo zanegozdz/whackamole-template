@@ -1,7 +1,6 @@
 import pygame
 import random
 
-# hello
 def draw_lines(screen):
     for i in range(1, 16):
         pygame.draw.line(
